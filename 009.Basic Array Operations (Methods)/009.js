@@ -1,4 +1,5 @@
 const friends = ['Dat', 'nguyen', 'minh', 'nam', 'Hau'];
+
 friends.push('Van'); // push = thêm vào cuối array
 
 friends.unshift('Dang'); // unshift = thêm vào đầu của array
