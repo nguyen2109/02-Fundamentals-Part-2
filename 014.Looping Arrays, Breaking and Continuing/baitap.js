@@ -1,5 +1,5 @@
 for (let i = 1; i < 51; i++) {
-  console.log(`Cử tri số ${[i]} đang bỏ phiếu`);
+  //console.log(`Cử tri số ${[i]} đang bỏ phiếu`);
 }
 
 function percentageOfWorld1(population) {
@@ -21,3 +21,4 @@ const percentages = [
 for (let i = 0; i < populations.length; i++) {
   percentages2[i] = percentageOfWorld1(populations[i]);
 }
+console.log(percentages2);
